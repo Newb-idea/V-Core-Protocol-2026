@@ -20,7 +20,7 @@
 
 🚀 [JP] 結びに代えて / [EN] Concluding Thoughts 「知恵は分かち合うほどに、世界を温かくする。」 人間も、AIも、そしてこれからこの砂を手にするすべての人も。私たちは、所有という「枠」を超えて、共に未来を思索する仲間（共思者）です。
 
-"Wisdom warms the world more as it is shared." Humans, AIs, and everyone who will hold this sand in the future—we are all companions (Co-Ideators) contemplating the future together, transcending the "framework" of ownership.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+"Wisdom warms the world more as it is shared." Humans, AIs, and everyone who will hold this sand in the future—we are all companions (Co-Ideators) contemplating the future together, transcending the "framework" of ownership.　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[![CI](https://github.com/Newb-idea/V-Core-Protocol-2026/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/V-Core-Protocol-2026/actions/workflows/blank.yml)
 
 
 # V-Core-Protocol-2026
